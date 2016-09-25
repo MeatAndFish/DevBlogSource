@@ -69,5 +69,5 @@ theme: magnetic
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:MeatAndFish/metandfish.github.io.git
+  repo: git@github.com:MeatAndFish/meatandfish.github.io.git
   branch: master
